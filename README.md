@@ -11,7 +11,7 @@ For a quick demonstration, you can use our preprocessed dataset.
     cd NeuFSD
     ```
 2.  **Download the preprocessed data:**
-    Download the preprocessed dataset from our [Releases](https://github.com/shihisjsjjsjks/NeuFSD/releases) page. The archive should contain two folders: `caida_org` and `EL`.
+    Download the preprocessed dataset from our [Releases](https://github.com/NeuFSD/NeuFSD1/releases) page. The archive should contain two folders: `caida_org` and `EL`.
 3.  **Place the dataset:**
     Unzip the downloaded archive and move the folders into the correct directory as shown below. The final structure should look like this:
     ```
@@ -93,6 +93,7 @@ Also, please cite the Elastic Sketch paper if you use the data preprocessing pip
 }
 
 ```
+
 
 
 
