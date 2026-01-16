@@ -75,11 +75,11 @@ The `plot.py` script is used to generate plots from the evaluation results. **Yo
 ## Citation
 If you use this code or our work in your research, please cite our paper:
 ```bibtex
-@inproceedings{neufsd2024,
+@inproceedings{neufsd2026,
   title={NeuFSD: Rethinking Flow Size Distribution via Neural Decoding},
-  author={Qilong Shi, Pinze Ren, Dayu Wang, Tong Yang, Yangyang Wang and Mingwei Xu},
+  author={anonymous},
   booktitle={Your Conference/Journal},
-  year={2024}
+  year={2026}
 }
 ```
 Also, please cite the Elastic Sketch paper if you use the data preprocessing pipeline:
@@ -93,4 +93,5 @@ Also, please cite the Elastic Sketch paper if you use the data preprocessing pip
 }
 
 ```
+
 
