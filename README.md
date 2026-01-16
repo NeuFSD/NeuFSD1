@@ -1,6 +1,6 @@
 # NeuFSD: Rethinking Flow Size Distribution via Neural Decoding
 This repository contains the official implementation for the paper **"NeuFSD: Rethinking Flow Size Distribution via Neural Decoding"**.
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](LINK_TO_YOUR_PAPER_ON_ARXIV_OR_OTHER)
+
 ## Overview
 NeuFSD is a novel approach that leverages neural decoding to accurately estimate the Flow Size Distribution (FSD) in network traffic. This project provides the code to preprocess datasets, train the NeuFSD model, evaluate its performance, and visualize the results.
 ## Quick Start
@@ -93,3 +93,4 @@ Also, please cite the Elastic Sketch paper if you use the data preprocessing pip
 }
 
 ```
+
