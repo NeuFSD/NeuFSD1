@@ -1,2 +1,0 @@
-# NeuFSD1
-For SIGMETRICS
