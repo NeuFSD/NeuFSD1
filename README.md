@@ -7,7 +7,7 @@ NeuFSD is a novel approach that leverages neural decoding to accurately estimate
 For a quick demonstration, you can use our preprocessed dataset.
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/shihisjsjjsjks/NeuFSD.git
+    git clone https://github.com/NeuFSD/NeuFSD1.git
     cd NeuFSD
     ```
 2.  **Download the preprocessed data:**
@@ -93,5 +93,6 @@ Also, please cite the Elastic Sketch paper if you use the data preprocessing pip
 }
 
 ```
+
 
 
